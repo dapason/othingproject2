@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="phone_brands">
+        <item>iPhone</item>
+        <item>Samsung</item>
+        <item>Xiaomi</item>
+        <item>Oppo</item>
+        <item>Vivo</item>
+        <item>Infinix</item>
+    </string-array>
+</resources>

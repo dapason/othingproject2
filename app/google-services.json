@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "104109018384",
+    "firebase_url": "https://aimobile-2ada4-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "aimobile-2ada4",
+    "storage_bucket": "aimobile-2ada4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:104109018384:android:e9f96bc7ba7353c6b2a995",
+        "android_client_info": {
+          "package_name": "com.example.myproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD88Qfe2BD3cLKjxTFeYElzdM8r4pnCS8k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
